@@ -1,0 +1,29 @@
+entity.Arrow.name=Flecha
+entity.Item.name=Item
+entity.Painting.name=Pintura
+entity.ItemFrame.name=Moldura
+entity.PrimedTnt.name=Bloco de Dinamite
+entity.FallingSand.name=Bloco Caindo
+entity.Minecart.name=Carrinho
+entity.Boat.name=Bote
+
+entity.Monster.name=Monstro
+entity.Creeper.name=Creeper
+entity.Skeleton.name=Esqueleto
+entity.Spider.name=Aranha
+entity.Giant.name=Gigante
+entity.Zombie.name=Zumbi
+entity.Slime.name=Slime
+entity.Spectre.name=Espectro
+
+entity.Mob.name=Criatura
+entity.Pig.name=Porco
+entity.Sheep.name=Ovelha
+entity.Cow.name=Vaca
+entity.Chicken.name=Galinha
+
+entity.null.name=desconhecido
+
+death.generic=%1$s morreu
+death.target=%1$s matou %2$s
+death.entity=%1$s foi morto por %2$s
