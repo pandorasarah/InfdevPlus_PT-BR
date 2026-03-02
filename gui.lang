@@ -155,7 +155,7 @@ selectWorld.resetIcon=Reiniciar Ícone
 selectWorld.locked=Ícone travado e não irá atualizar
 
 selectWorld.gameMode=Modo de Jogo
-selectWorld.gameMode.survival=Sobrevivência
+selectWorld.gameMode.survival=Sobrevivên.
 selectWorld.gameMode.creative=Criativo
 selectWorld.gameMode.spectator=Espectador
 selectWorld.gameMode.adventure=Aventura
