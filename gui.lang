@@ -31,7 +31,7 @@ gui.serverDeletion=será removido
 gui.serverDeletionConfirmation=Tem certeza que deseja remover este servidor?
 gui.multiplayer=Multijogador
 gui.disconnect=Desconectar
-gui.toMenu=oltar ao Menu Principal
+gui.toMenu=Voltar ao Menu Principal
 gui.searchMP=Buscar Servidores...
 
 gui.sort=Organizar itens
