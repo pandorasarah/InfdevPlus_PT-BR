@@ -78,6 +78,8 @@ gui.iconLockConfirmation=Tem certeza que deseja travar o ícone?
 gui.lockIcon=Assim que travado, o ícone não irá mais mudar. Você ainda pode destravá-lo reiniciando ele!
 gui.credits=Mod pelo The Legacy+ Team
 
+misc.unknown=Desconhecido
+
 multiplayer.no=Multijogador não é suportado atualmente!
 
 menu.singleplayer=Um Jogador
@@ -393,6 +395,7 @@ inventory.binSlot=Apagar Item
 title.credits=Créditos
 anchor.set=Ponto de renascimento definido!
 shrine.set=Você rezou ao santuário. Ponto de renascimento definido!
+respawn.no=Ponto de renascimento não deifinido/encontrado!
 stronghold.none=Nenhum slipgate encontrado por perto! Tente em um local diferente.
 
 painting.kebab=Kebab

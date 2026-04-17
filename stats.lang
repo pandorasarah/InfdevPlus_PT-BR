@@ -257,7 +257,7 @@ achievement.ripoff.desc=Craft and fully use up a damascus hoe.
 achievement.hellfire=Hellfire Forger
 achievement.hellfire.desc=Smelt something in a hellforge.
 achievement.spawner=Reignited
-achievement.spawner.desc=Relight a mob spawner using a fire charge obtained from imps.
+achievement.spawner.desc=Relight a mob spawner using a fire charge obtained from blazes.
 achievement.beetroot=Beet the Rage
 achievement.beetroot.desc=Calm down an angry zombie pigman by feeding it bloodvein beets.
 achievement.boat=Infernal Tour
@@ -284,6 +284,8 @@ achievement.indev=That's Hot!
 achievement.indev.desc=Throw something smeltable into hellfire.
 achievement.chest=Dimensional Delivery
 achievement.chest.desc=Craft an obsidian chest for inter-dimensional storage.
+achievement.crossbone=Get boned!
+achievement.crossbone.desc=Hit a skeleton with a bone fired from the Crossbone.
 
 achievement.skyIn=A Hostile Paradise
 achievement.skyIn.desc=Enter the Astral realm by sleeping with a dreamcatcher in hand.
@@ -319,6 +321,8 @@ achievement.jumppad=Touch the Sky!
 achievement.jumppad.desc=Gain some air by stepping on a clover.
 achievement.adamantine=Frostborn
 achievement.adamantine.desc=Obtain adamantine by freezing it, then craft equipment with it.
+achievement.grass=Touch Some Grass!
+achievement.grass.desc=Tame a Cirrogel with willow bark and feed it a grass block.
 
 achievement.killVoider=Canto I
 achievement.killVoider.desc=Obtain dark matter from a stalker.
