@@ -78,6 +78,8 @@ gui.iconLockConfirmation=Are you sure you wish to lock the icon?
 gui.lockIcon=Once locked, the icon will no longer change. You can unlock it again by resetting it!
 gui.credits=Mod by The Legacy+ Team
 
+misc.unknown=Unknown
+
 multiplayer.no=Multiplayer is currently not supported!
 
 menu.singleplayer=Singleplayer
@@ -393,6 +395,7 @@ inventory.binSlot=Delete Item
 title.credits=Credits
 anchor.set=Your respawn point has been set!
 shrine.set=You prayed at the shrine. Your spawn point is now set!
+respawn.no=Player spawn point not set/found!
 stronghold.none=No slipgates found nearby! Try in a different area.
 
 painting.kebab=Kebab

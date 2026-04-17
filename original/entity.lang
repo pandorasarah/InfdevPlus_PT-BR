@@ -1,5 +1,5 @@
 entity.Arrow.name=Arrow
-entity.Item.name=Item
+entity.ItemList.name=Item
 entity.Painting.name=Painting
 entity.ItemFrame.name=Item Frame
 entity.PrimedTnt.name=Block of TNT
