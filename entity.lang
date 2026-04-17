@@ -1,5 +1,5 @@
 entity.Arrow.name=Flecha
-entity.Item.name=Item
+entity.ItemList.name=Item
 entity.Painting.name=Pintura
 entity.ItemFrame.name=Moldura
 entity.PrimedTnt.name=Bloco de Dinamite
